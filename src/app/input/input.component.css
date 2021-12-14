@@ -1,0 +1,29 @@
+body {
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+div {
+    border: solid;
+    text-align: left;
+    width: 40%;
+    margin: auto;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 25px;
+    margin: 10px 0px;
+}
+
+input {
+    width: 100%;
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+button {
+    font-size: 20px;
+}

@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    font-size: 30px;
+    vertical-align: middle;
+}
+
+div {
+    box-sizing: border-box;
+    text-align: left;
+    width: 30%;
+    margin: auto;
+}
+
+input {
+    width: 100%;
+    font-size: 25px;
+    margin: 10px 0;
+}
+
+button {
+    font-size: 25px;
+}
